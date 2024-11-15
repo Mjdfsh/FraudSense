@@ -1,0 +1,138 @@
+{
+  "language": "ar",
+  "levels": [
+    {
+      "description": "المرحله الاولى",
+      "index": 1,
+      "scenarios": [
+        {
+          "answers": [
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق",
+              "isCorrect": false,
+              "text": "رقم غريب"
+            },
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق والرابط المرسل يؤدي الى موقع موثوق",
+              "isCorrect": false,
+              "text": "رابط غريب"
+            },
+            {
+              "explanationWhenIncorrect": "",
+              "isCorrect": true,
+              "text": "هذه الرساله ليست محاولة احتيال"
+            }
+          ],
+          "contactTitle": "NAQEL EXPRESS",
+          "hint": "تذكر بأن ارقام الشركات الكبرى والموثوقه تحمل علامة توثيق بجانب اسمها",
+          "isVerifiedContact": true,
+          "messageTime": "8:00 PM",
+          "question": "ما الدليل ان هذه الرسالة محاولة احتيال؟",
+          "receivedLink": "https://naqelexpress.com/826478293",
+          "receivedMessage": "وصلت شحنتك, لتحديث بيانات التسليم اتبع الرابط ادناه.",
+          "scoreGainedOnCompletion": 30,
+          "startingCharacterMessage": "انظر جيدا واجد الاجابة الصحيحة",
+          "timeToSolveInSeconds": 20
+        },{
+          "answers": [
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق",
+              "isCorrect": false,
+              "text": "رقم غريب"
+            },
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق والرابط المرسل يؤدي الى موقع موثوق",
+              "isCorrect": false,
+              "text": "رابط غريب"
+            },
+            {
+              "explanationWhenIncorrect": "",
+              "isCorrect": true,
+              "text": "هذه الرساله ليست محاولة احتيال"
+            }
+          ],
+          "contactTitle": "NAQEL EXPRESS",
+          "hint": "تذكر بأن ارقام الشركات الكبرى والموثوقه تحمل علامة توثيق بجانب اسمها",
+          "isVerifiedContact": true,
+          "messageTime": "8:00 PM",
+          "question": "ما الدليل ان هذه الرسالة محاولة احتيال؟",
+          "receivedLink": "https://naqelexpress.com/826478293",
+          "receivedMessage": "وصلت شحنتك, لتحديث بيانات التسليم اتبع الرابط ادناه.",
+          "scoreGainedOnCompletion": 30,
+          "startingCharacterMessage": "انظر جيدا واجد الاجابة الصحيحة",
+          "timeToSolveInSeconds": 20
+        }
+      ]
+    },
+    {
+      "description": "المرحله الثانية",
+      "index": 2,
+      "scenarios": [
+        {
+          "answers": [
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق",
+              "isCorrect": false,
+              "text": "رقم غريب"
+            },
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق والرابط المرسل يؤدي الى موقع موثوق",
+              "isCorrect": false,
+              "text": "رابط غريب"
+            },
+            {
+              "explanationWhenIncorrect": "",
+              "isCorrect": true,
+              "text": "هذه الرساله ليست محاولة احتيال"
+            }
+          ],
+          "contactTitle": "NAQEL EXPRESS",
+          "hint": "تذكر بأن ارقام الشركات الكبرى والموثوقه تحمل علامة توثيق بجانب اسمها",
+          "isVerifiedContact": true,
+          "messageTime": "8:00 PM",
+          "question": "ما الدليل ان هذه الرسالة محاولة احتيال؟",
+          "receivedLink": "https://naqelexpress.com/826478293",
+          "receivedMessage": "وصلت شحنتك, لتحديث بيانات التسليم اتبع الرابط ادناه.",
+          "scoreGainedOnCompletion": 30,
+          "startingCharacterMessage": "انظر جيدا واجد الاجابة الصحيحة",
+          "timeToSolveInSeconds": 20
+        }
+      ]
+    },
+    {
+      "description": "المرحله الثالثة",
+      "index": 3,
+      "scenarios": [
+        {
+          "answers": [
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق",
+              "isCorrect": false,
+              "text": "رقم غريب"
+            },
+            {
+              "explanationWhenIncorrect": "هذا الاختيار خاطئ لأن الرساله تم ارسالها من رقم موثوق والرابط المرسل يؤدي الى موقع موثوق",
+              "isCorrect": false,
+              "text": "رابط غريب"
+            },
+            {
+              "explanationWhenIncorrect": "",
+              "isCorrect": true,
+              "text": "هذه الرساله ليست محاولة احتيال"
+            }
+          ],
+          "contactTitle": "NAQEL EXPRESS",
+          "hint": "تذكر بأن ارقام الشركات الكبرى والموثوقه تحمل علامة توثيق بجانب اسمها",
+          "isVerifiedContact": true,
+          "messageTime": "8:00 PM",
+          "question": "ما الدليل ان هذه الرسالة محاولة احتيال؟",
+          "receivedLink": "https://naqelexpress.com/826478293",
+          "receivedMessage": "وصلت شحنتك, لتحديث بيانات التسليم اتبع الرابط ادناه.",
+          "scoreGainedOnCompletion": 30,
+          "startingCharacterMessage": "انظر جيدا واجد الاجابة الصحيحة",
+          "timeToSolveInSeconds": 20
+        }
+      ]
+    }
+  ]
+}
